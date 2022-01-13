@@ -44,3 +44,9 @@ After conducting data wrangling, subsetting, and consistency checks I began data
 A few example visualizations included below. Final project zip file (including project brief, scripts, visualization PNGs, and a final Excel report for Instacart) is attached in this depository. 
 
 Example visualizations:
+
+![This is an image](https://user-images.githubusercontent.com/97590184/149243565-2244f056-1a80-4d93-8fb7-87012657e001.png)
+
+![This is an image](https://user-images.githubusercontent.com/97590184/149243580-a17df7c5-456a-49a3-8b96-7796d837cd22.png)
+
+![This is an image](https://user-images.githubusercontent.com/97590184/149243646-14bb96b3-fa26-4e18-906d-2c02542f55f6.PNG)
