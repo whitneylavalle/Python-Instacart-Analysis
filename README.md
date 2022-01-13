@@ -44,7 +44,8 @@ After conducting data wrangling, subsetting, and consistency checks I began data
 A few example visualizations included below. Final project zip file (including project brief, scripts, visualization PNGs, and a final Excel report for Instacart) is attached in this depository. 
 
 Example visualizations:
-*All visualizations are in the "Analysis" folder of the project zip file included in this depository
+
+Note: all visualizations are in the "Analysis" folder of the project zip file included in this depository
 
 ![This is an image](https://user-images.githubusercontent.com/97590184/149243565-2244f056-1a80-4d93-8fb7-87012657e001.png)
 
