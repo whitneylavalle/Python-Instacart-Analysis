@@ -39,13 +39,13 @@ ordering, and anything else you can think of.
 
 I used open-source data sets from Instacart in conjunction with a fictional customer data set for the purposes of this project. 
 
-After conducting data wrangling, subsetting, and consistency checks I began data transformation efforts. This included combining and exporting data, deriving new variables, grouping/aggregating, and creating visualizations. 
+After conducting data wrangling, subsetting, and consistency checks, I began data transformation efforts. This included combining and exporting data, deriving new variables, grouping/aggregating, and creating visualizations. 
 
 A few example visualizations included below. Final project zip file (including project brief, scripts, visualization PNGs, and a final Excel report for Instacart) is attached in this depository. Data file is omitted as it is too large for GitHub to hold in project folder. 
 
 Example visualizations:
 
-Note: all visualizations are in the "Analysis" folder of the project zip file included in this depository
+Note: all visualizations are in the "Analysis" folder of the project zip file included in this depository.
 
 ![This is an image](https://user-images.githubusercontent.com/97590184/149243565-2244f056-1a80-4d93-8fb7-87012657e001.png)
 
