@@ -41,7 +41,7 @@ I used open-source data sets from Instacart in conjunction with a fictional cust
 
 After conducting data wrangling, subsetting, and consistency checks I began data transformation efforts. This included combining and exporting data, deriving new variables, grouping/aggregating, and creating visualizations. 
 
-A few example visualizations included below. Final project zip file (including project brief, scripts, visualization PNGs, and a final Excel report for Instacart) is attached in this depository. 
+A few example visualizations included below. Final project zip file (including project brief, scripts, visualization PNGs, and a final Excel report for Instacart) is attached in this depository. Data file is omitted as it is too large for GitHub to hold in project folder. 
 
 Example visualizations:
 
