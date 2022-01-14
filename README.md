@@ -1,7 +1,7 @@
 # Python-Instacart-Analysis
 This repository contains a Python-based analysis of Instacart sales. It pulls from Instacart's public orders data merged with fictional customer data to inform strategy and recommendations for the company. 
 
-Instacart is an online grocery store that operates through an app. The company has very good sales, but want to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their data along with their purchasing behaviors.
+Instacart is an online grocery store that operates through an app. The company has very good sales, but wants to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their data along with their purchasing behaviors.
 
 I was tasked with coducting an initial data and exploratory analysis in order to derive insights and suggest strategies for better customer segmentation. 
 
