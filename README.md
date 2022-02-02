@@ -3,7 +3,7 @@ This repository contains a Python-based analysis of Instacart sales. It pulls fr
 
 Instacart is an online grocery store that operates through an app. The company has very good sales, but wants to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their data along with their purchasing behaviors.
 
-I was tasked with coducting an initial data and exploratory analysis in order to derive insights and suggest strategies for better customer segmentation. 
+I was tasked with conducting an initial data and exploratory analysis in order to derive insights and suggest strategies for better customer segmentation. 
 
 Key Business Questions:
 1. The sales team needs to know what the busiest days of the week and hours of the day
